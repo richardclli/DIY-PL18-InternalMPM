@@ -18,7 +18,7 @@ https://github.com/pascallanger/DIY-Multiprotocol-TX-Module
 
 ![Add Power Control](https://github.com/richardclli/DIY-PL18-InternalMPM/blob/main/images/IntModPower.jpg)
 
-3. Install the PCB and insert the power control pin, you may need to use a stocky tape to ensure the MPM PCB is fixed to the PL18 PCB properly.
+3. Install the PCB and insert the power control pin, you may need to use a sticky tape to ensure the MPM PCB is fixed to the PL18 PCB properly.
 
 ![Install PCB](https://github.com/richardclli/DIY-PL18-InternalMPM/blob/main/images/ModuleInstall.jpg)
 
